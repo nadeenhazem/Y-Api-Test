@@ -1,0 +1,43 @@
+{
+  "Cart": [
+    {
+      "name": "Adidas red T-shirt lorem ipsum dolor sitament consectetuer",
+      "price": 9999,
+      "size": "Large",
+      "Quantity": 1,
+      "color": "red",
+      "colorImg": "https://i.ibb.co/4WSws5Q/itemimg3.jpg",
+      "id": 12
+    },
+    {
+      "name": "Adidas red T-shirt lorem ipsum dolor sitament consectetuer",
+      "price": 9999,
+      "size": "Large",
+      "Quantity": 1,
+      "color": "red",
+      "colorImg": "https://i.ibb.co/4WSws5Q/itemimg3.jpg",
+      "id": 13
+    },
+    {
+      "name": "Adidas red T-shirt lorem ipsum dolor sitament consectetuer",
+      "price": 9999,
+      "size": "Large",
+      "Quantity": 1,
+      "color": "red",
+      "colorImg": "https://i.ibb.co/4WSws5Q/itemimg3.jpg",
+      "id": 15
+    },
+    {
+      "name": "Adidas red T-shirt lorem ipsum dolor sitament consectetuer",
+      "price": 9999,
+      "size": "Large",
+      "Quantity": 1,
+      "color": "red",
+      "colorImg": "https://i.ibb.co/4WSws5Q/itemimg3.jpg",
+      "id": 16
+    }
+  ],
+  "CartCounter": {
+    "Counter": 4
+  }
+}
